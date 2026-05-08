@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "OPOLEJESTSLABE",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "SMPLifesteal.aternos.me",
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "HI!",
-        "I like to play Minecraft!"
+        "nie lubie astry",
+        "nie lubie opla",
+        "nie lubie opola!"
       ]
     },
     "chat-log": true,
